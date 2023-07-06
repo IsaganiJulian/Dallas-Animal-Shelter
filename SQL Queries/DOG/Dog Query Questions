@@ -1,0 +1,8 @@
+#DOG Query Questions
+1. Select the count of the top 3 dog breeds impounded at the shelter.
+2. Select the count of each intake type for the Pitbull dog breed.
+3. Select the count of the top 3 intake subtypes for the Pitbull dog breed in DESC order.
+4. Select the count of stray dogs at the shelter. 
+5. Select the count of euthanized dogs at the shelter.
+6. Select the count of surrendered dogs at the shelter. 
+7. Select the dog breed that was adopted the most at the shelter.
